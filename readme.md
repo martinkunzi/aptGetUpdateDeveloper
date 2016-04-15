@@ -3,6 +3,7 @@ Hello to you all, readers, here is a little summary on our side project: apt-get
 The readMe document will be organised in this fashion: 
 
 1) Introduction and Summary of the project, and the ideas behind it
+
 2) Reverse chronologically ordered changelogs, to help you see what changed from the last version
 
 And that's it. 
